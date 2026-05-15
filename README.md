@@ -1,1 +1,1 @@
-# mpuhar-dir.github.io
+# Daten- und Informatikrecht 2026 - Praxisbeispiel
