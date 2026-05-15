@@ -18,12 +18,12 @@ CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-
 | Drive "CoWörk Files" | - | ✅ | ✅ | ✅ |
 | Banking "CoWörk Finance" | - | - | ✅ | ✅ |
 | Projektmanagment "CoWörk Flow" | - | - | ✅ | ✅ |
-| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | - | 5 kostenlos / Mo. | Optional | ✅(inklusive) |
-| Support | E-Mail | E-Mail | E-Mail & Telefon | 24/7 Priority |
+| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | - | 5 free / Mo. | Optional | ✅(inklusive) |
+| Support | E-Mail | E-Mail | Forum | 24/7 Priority |
 | **monatlicher Preis** | **€ 0,-** | **€ 20,-** * | **€ 600,-** | **Auf Anfrage** |
-| | [Testen](#){: .btn .btn--primary} | [Beantragen](#){: .btn .btn--primary} | [Abbonieren](#){: .btn .btn--primary} | [Kontakt](#){: .btn .btn--primary} |
+| Tarif auswählen | [Auswählen](#){: .btn .btn--primary} | [Auswählen](#){: .btn .btn--primary} | [Auswählen](#){: .btn .btn--primary} | [Auswählen](#){: .btn .btn--primary} |
 
-*\* nur für ausgewählte gemmeinnützige Organisationen*
+<small> *\* nur für ausgewählte gemmeinnützige Organisationen*
 
 ---
 
@@ -62,3 +62,4 @@ Damit die Organisation Ihrer Projekte nie für unzufriedene Kunden sorgt, könne
 
 ### OCR-addon "CoWörk Oracle"
 Erkennt wichtige Banking- sowie Kundendaten mit sehr hoher genauigkeit. Automatische Zuweisung zu Projekten, Kunden, Mitgliedern, oder sonstigen Posten.
+Nur **€20,- pro Monat** für NGOs und Pro-Benutzer!
