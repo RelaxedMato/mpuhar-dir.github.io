@@ -1,0 +1,65 @@
+---
+# Overrides
+---
+
+@import "minimal-mistakes/skins/catppuccin_latte";
+@import "minimal-mistakes";
+
+/* BUTTONS */
+.btn,
+.btn--primary {
+  background-color: #c62828 !important;
+  color: #ffffff !important;
+  border-color: #c62828 !important;
+}
+
+.btn:hover,
+.btn--primary:hover {
+  background-color: #8e0000 !important;
+  border-color: #8e0000 !important;
+}
+
+.btn--info,
+.notice--info {
+  background-color: #f9a825 !important;
+  color: #2b2b2b !important;
+  border-color: #f9a825 !important;
+}
+
+.btn--info:hover {
+  background-color: #f57f17 !important;
+  border-color: #f57f17 !important;
+}
+
+.btn--success,
+.notice--success {
+  background-color: #2e7d32 !important;
+  color: #ffffff !important;
+  border-color: #2e7d32 !important;
+}
+
+.btn--success:hover {
+  background-color: #1b5e20 !important;
+  border-color: #1b5e20 !important;
+}
+
+/* FOOTER */
+
+.page__footer-copyright {
+  color: #4c4f69 !important;
+  font-weight: 400;
+}
+
+.page__footer a {
+  color: #ad0e31 !important;
+  font-weight: 600;
+}
+
+.page__footer a:hover {
+  color: #d20f39 !important;
+  text-decoration: none !important;
+}
+
+.page__footer .social-icons a {
+  color: #4c4f69 !important;
+}

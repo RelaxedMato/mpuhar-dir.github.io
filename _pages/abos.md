@@ -5,26 +5,25 @@ permalink: /abos/
 ---
 CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-as-a-Service) Lösung für die interne Verwaltung Ihrer Organisation! Wählen sie eines unser flexiblen Tarife oder kontaktieren Sie uns persönlich, um eine maßgeschneiderte Lösung für Ihre Organisation zu planen.
 
-## Übersicht unser Tarife
+## Übersicht unserer Tarife
 
 
 | Feature | Free | NGOs | Pro | Enterprise |
 |:---|:-:|:---:|:---:|:---:|
 | CRM-Modul "CoWörk CRM" | ✅ | ✅ | ✅ | ✅ |
-| Rechnungswesen "CoWörk Accounting" | ❌ | ✅ | ✅ | ✅ |
-| Zeiterfassung "CoWörk Chronos" | ❌ | ❌ | ✅ | ✅ |
-| Inventar & Logistik "CoWörk Freight&Forget" | ❌ | ❌ | ❌ | ✅ |
-| Webshop "CoWörk QuickShop" | ❌ | ❌ | ❌ | ✅ |
-| Drive "CoWörk Files" | ❌ | ✅ | ✅ | ✅ |
-| Banking "CoWörk Finance" | ❌ | ❌ | ✅ | ✅ |
-| Projektmanagment "CoWörk Flow" | ❌ | ❌ | ✅ | ✅ |
-| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | ❌ | 5 kostenlos / Mo. | Optional | ✅(inklusive) |
+| Rechnungswesen "CoWörk Accounting" | - | ✅ | ✅ | ✅ |
+| Zeiterfassung "CoWörk Chronos" | - | - | ✅ | ✅ |
+| Inventar & Logistik "CoWörk Freight&Forget" | - | - | - | ✅ |
+| Webshop "CoWörk QuickShop" | - | - | - | ✅ |
+| Drive "CoWörk Files" | - | ✅ | ✅ | ✅ |
+| Banking "CoWörk Finance" | - | - | ✅ | ✅ |
+| Projektmanagment "CoWörk Flow" | - | - | ✅ | ✅ |
+| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | - | 5 kostenlos / Mo. | Optional | ✅(inklusive) |
 | Support | E-Mail | E-Mail | E-Mail & Telefon | 24/7 Priority |
 | **monatlicher Preis** | **€ 0,-** | **€ 20,-** * | **€ 600,-** | **Auf Anfrage** |
+| | [Testen](#){: .btn .btn--primary} | [Beantragen](#){: .btn .btn--primary} | [Abbonieren](#){: .btn .btn--primary} | [Kontakt](#){: .btn .btn--primary} |
 
 *\* nur für ausgewählte gemmeinnützige Organisationen*
-
-[Tarif wählen](#){: .btn .btn--success} [Kostenlos Testen](#){: .btn .btn--secondary} [Kontakt](#){: .btn .btn--info}
 
 ---
 
