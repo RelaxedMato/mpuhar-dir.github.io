@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Startseite"
+    url: /
+  - title: "Tariffe"
+    url: /abos/
+  - title: "Shop"
+    url: /shop/
