@@ -15,7 +15,23 @@
   max-width: 1800px;
 }
 
+/* GENERAL */
+.page__content a {
+  color: #ad0e31 !important;
+  font-weight: 600;
+}
+.page__content a:hover {
+  color: #d20f39 !important;
+  text-decoration: none !important;
+}
+
 /* BUTTONS */
+a.btn,
+a:hover.btn {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
 .btn,
 .btn--primary {
   background-color: #c62828 !important;
@@ -31,14 +47,13 @@
 
 .btn--info,
 .notice--info {
-  background-color: #f9a825 !important;
-  color: #2b2b2b !important;
-  border-color: #f9a825 !important;
+  background-color: #ae4e00 !important;
+  border-color: #ae4e00 !important;
 }
 
 .btn--info:hover {
-  background-color: #f57f17 !important;
-  border-color: #f57f17 !important;
+  background-color: #974400 !important;
+  border-color: #974400 !important;
 }
 
 .btn--success,
