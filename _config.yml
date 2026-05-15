@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "de-AT"
@@ -35,8 +35,14 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "Impressum"
+      url: "/impressum/"
+    - label: "Datenschutz"
+      url: "/datenschutz/"
+    - label: "Kontakt"
+      url: "/kontakt/"
+    - label: "Über uns"
+      url: "/about/"
 
   since: "2013"
 
@@ -144,7 +150,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -152,7 +157,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 
@@ -193,6 +197,8 @@ compress_html:
   ignore:
     envs: development
 
+atom_feed:
+  hide: true
 
 # Defaults
 defaults:
