@@ -18,7 +18,7 @@ CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-
 | Drive "CoWörk Files" | ❌ | ✅ | ✅ | ✅ |
 | Banking "CoWörk Finance" | ❌ | ❌ | ✅ | ✅ |
 | Projektmanagment "CoWörk Flow" | ❌ | ❌ | ✅ | ✅ |
-| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | ❌ | 5 kostenlos / Mo. | ❌ | ✅(inklusive) |
+| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | ❌ | 5 kostenlos / Mo. | Optional | ✅(inklusive) |
 | Support | E-Mail | E-Mail | E-Mail & Telefon | 24/7 Priority |
 | **monatlicher Preis** | **€ 0,-** | **€ 20,-** * | **€ 600,-** | **Auf Anfrage** |
 
