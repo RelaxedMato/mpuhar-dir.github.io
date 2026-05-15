@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "CoWörk ERP – Tarif- und Modulübersicht"
+title: "Tarif- und Modulübersicht"
 permalink: /abos/
 ---
-# Übersicht der Tarife und Module
-
 CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-as-a-Service) Lösung für die interne Verwaltung Ihrer Organisation! Wählen sie eines unser flexiblen Tarife oder kontaktieren Sie uns persönlich, um eine maßgeschneiderte Lösung für Ihre Organisation zu planen.
 
 ## Übersicht unser Tarife
@@ -12,50 +10,56 @@ CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-
 
 | Feature | Free | NGOs | Pro | Enterprise |
 |:---|:-:|:---:|:---:|:---:|
-| CRM-Modul | ✅ | ✅ | ✅ | ✅ |
-| Rechnungswesen | ❌ | ✅ | ✅ | ✅ |
-| Zeiterfassung | ❌ | ❌ | ✅ | ✅ |
-| Inventar & Logistik | ❌ | ❌ | ❌ | ✅ |
-| Webshop | ❌ | ❌ | ❌ | ✅ |
-| Drive | ❌ | ✅ | ✅ | ✅ |
-| Banking | ❌ | ❌ | ✅ | ✅ |
-| Projektmanagment | ❌ | ❌ | ✅ | ✅ |
-| OCR | ❌ | ❌ | ❌ | ✅ |
+| CRM-Modul "CoWörk CRM" | ✅ | ✅ | ✅ | ✅ |
+| Rechnungswesen "CoWörk Accounting" | ❌ | ✅ | ✅ | ✅ |
+| Zeiterfassung "CoWörk Chronos" | ❌ | ❌ | ✅ | ✅ |
+| Inventar & Logistik "CoWörk Freight&Forget" | ❌ | ❌ | ❌ | ✅ |
+| Webshop "CoWörk QuickShop" | ❌ | ❌ | ❌ | ✅ |
+| Drive "CoWörk Files" | ❌ | ✅ | ✅ | ✅ |
+| Banking "CoWörk Finance" | ❌ | ❌ | ✅ | ✅ |
+| Projektmanagment "CoWörk Flow" | ❌ | ❌ | ✅ | ✅ |
+| OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | ❌ | 5 kostenlos / Mo. | ❌ | ✅(inklusive) |
 | Support | E-Mail | E-Mail | E-Mail & Telefon | 24/7 Priority |
-| **monatlicher Preis** | **€ 0,-** | **€ 0,-** * | **€ 80,-** | **Auf Anfrage** |
+| **monatlicher Preis** | **€ 0,-** | **€ 20,-** * | **€ 600,-** | **Auf Anfrage** |
 
 *\* nur für ausgewählte gemmeinnützige Organisationen*
 
-[Kostenlos Testen](#){: .btn .btn--primary} [Tarif wählen](#){: .btn .btn--success} [Kontakt](#){: .btn .btn--info}
+[Tarif wählen](#){: .btn .btn--success} [Kostenlos Testen](#){: .btn .btn--secondary} [Kontakt](#){: .btn .btn--info}
 
 ---
 
 ## Übersicht der Module
 Hier können Sie die genauen Funktionen Ihres Tarifs kennenlernen:
 
-### CRM-Modul
-Zentrale Verwaltung Ihrer Kundschaft und Mitgliedern Ihrer Organisation.
+### CRM-Modul "CoWörk CRM"
+Zentrale Verwaltung der Daten Ihrer Kundschaft und Mitgliedern Ihrer Organisation.
 
-### Rechnungswesen
-Egal ob Rechnungserstellung und Versand, Billanzierung oder Verwaltung Ihrer Abonnements, unser "All-in-one" Modul unterstützt Ihre Organisation dabei, Ihre Finanzen einfach und effizient im Überblick zu behalten.
+### Rechnungswesen "CoWörk Accountant"
+Egal ob Rechnungserstellung und Versand, Billanzierung oder Verwaltung Ihrer Abonnements, unser "all-in-one" Modul unterstützt Ihre Organisation dabei, Ihre Finanzen einfach und effizient im Überblick zu behalten.
 
-### Zeiterfassung
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### Zeiterfassung "CoWörk Chronos"
+Zeiterfassung noch nie so leicht! Automatische Berechnung der Überstunden, einfacher Export für die Lohnverrechnung, Auslastungs-Matrix für Ihre Mitglieder und direkte Leistungsverrechnung ermöglichen Leistungspower Ihrer Organisation schnell zu verwalten.
 
-### Inventar & Logistik
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### Inventar & Logistik "CoWörk Freight&Forget"
+Nie wieder auf Material warten müssen! Unser Modul synchronisiert automatisch den Lagerbestand, schlägt bei geringer Menge Nachbestellungen vor und macht Versenden Ihrer Ware ganz einfach mit unserer innovativen Freight-and-Forget Tracking Technologie. 
 
-### Webshop
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### Webshop "CoWörk QuickShop"
+Wir bieten maßgeschneiderte Webshop-Lösungen für Ihre Organisation.
 
-### Drive
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### Drive "CoWörk Files"
+Jede Organisation bedarf nach Speicherplatz für wichtige Dateien und Bilder. Bei uns bekommen Sie bereits ab dem "Free"-Tarif kostenlos 50GB Speicherplatz dazu! 
 
-### Banking
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### Banking "CoWörk Finances"
+Unser System bietet Ihrer Organisation folgende Funktionen:
+- Schneller und einfacher Import Ihrer Kontoauszüge mit dem CAMT.053 Format
+- SEPA-Sammelüberweisungen mit dem pain.001 Format
+- Direkter Export ins BMD
+- KI-Analyse wiederkehrender Zahlungen sowie Geldflüße, um Ihren Alltag zu erleichtern
+- Vollständige RKSV-Intergration
 
-### Projektmanagment
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### Projektmanagment "CoWörk Flow"
+Um alle Ihre Stakeholder zu beeindrücken können sie mit nur wenigen Clicks hochdetaillierte Gantt-Charts erstellen.
+Damit die Organisation Ihrer Projekte nie für unzufriedene Kunden sorgt, können Ihre Mitglieder ihre Aufgaben ühbersichtlich in unseren Kanban-Boards verwalten, und erhalten automatisierte Deadline- sowie Update-Benachrichtigungen.
 
-### OCR
-Zentrale Verwaltung von Kontakten und Vereinsmitgliedern. DSGVO-konform und optimiert für den österreichischen Raum.
+### OCR-addon "CoWörk Oracle"
+Erkennt wichtige Banking- sowie Kundendaten mit sehr hoher genauigkeit. Automatische Zuweisung zu Projekten, Kunden, Mitgliedern, oder sonstigen Posten.
