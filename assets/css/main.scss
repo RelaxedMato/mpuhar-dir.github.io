@@ -47,8 +47,8 @@ a:hover.btn {
 
 .btn--info,
 .notice--info {
-  background-color: #ae4e00 !important;
-  border-color: #ae4e00 !important;
+  background-color: #c25700 !important;
+  border-color: #c25700 !important;
 }
 
 .btn--info:hover {
@@ -111,4 +111,10 @@ td:not(:first-child) {
 
 .page__footer .social-icons a {
   color: #4c4f69 !important;
+}
+
+/* MISC. ACCESSIBILITY */
+.skip-links a {
+  color: white;
+  background: #7a1f1f;
 }

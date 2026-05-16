@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "CoWörk ERP"
-permalink: /
 ---
 ![Logo des CoWörk](/assets/images/logos/logo384.png){: .align-left} **CoWörk ERP** ist Ihr Partner für digitale Verwaltung Ihrer Organisation aus dem Herzen Österreichs. 
 
