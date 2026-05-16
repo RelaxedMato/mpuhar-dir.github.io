@@ -23,7 +23,7 @@ Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **österreichi
       auf
       <a href="https://unsplash.com">Unsplash</a>
       <div class="license">
-        (lizensiert unter der
+        (lizensiert unter der freien
         <a href="https://www.unsplash.com/license/">Unsplash-Lizenz</a>
         )
       </div>
@@ -67,7 +67,7 @@ Ersparren Sie sich lange Arbeitsmeetings und viel Papierkram!
       auf
       <a href="https://www.pexels.com"> Pexels</a>
       <div class="license">
-        (lizensiert unter der
+        (lizensiert unter der freien
         <a href="https://www.pexels.com/license/">Pexels-Lizenz</a>
         )
       </div>
