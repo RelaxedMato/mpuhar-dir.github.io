@@ -47,7 +47,7 @@ classes: wide
 
 ## Zahlungsinformationen
 
-<label for="card">Karteninhaber*</label>
+<label for="cName">Karteninhaber*</label>
 <input
   type="text"
   id="cName"
