@@ -49,7 +49,6 @@ Ersparren Sie sich lange Arbeitsmeetings und viel Papierkram!
 
 <div class="video-block">
   <img src="{{ '/assets/videos/finances.webp' | relative_url }}" alt="Zwei Personen arbeiten ineffizient mit analogen Mitteln." role="presentation" width="100%">
-  </div>
   <small>
     <em>
       Video von
