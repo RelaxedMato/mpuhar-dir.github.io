@@ -13,7 +13,23 @@ Unser Ziel ist es, Verwaltungsprozesse zu zentralisieren und die Zusammenarbeit 
 
 ## Warum CoWörk ERP?
 
-Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **österreichischen Raum** 🇦🇹 entwickelt. 
+Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **österreichischen Raum** 🇦🇹 entwickelt.
+<div class="image-block">
+  <img src="/assets/images/vienna.jpg" alt="Wien">
+  <small>
+    <em>
+      Foto von
+      <a href="https://unsplash.com/de/@planiel">Daniel Plan</a>
+      auf
+      <a href="https://unsplash.com">Unsplash</a>
+      <div class="license">
+        (lizensiert unter der
+        <a href="https://www.unsplash.com/license/">Unsplash-Lizenz</a>
+        )
+      </div>
+    </em>
+  </small>
+</div>
 
 ### Kernmodule im Überblick:
 * **CRM:** Zentrale Verwaltung für Kontakte und Mitglieder.
@@ -29,12 +45,34 @@ Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **österreichi
 
 ---
 
-## CoWörk in Aktion (Video)
+Ersparren Sie sich lange Arbeitsmeetings und viel Papierkram!
 
-Hier erhalten Sie einen kurzen Einblick in die Funktionen unseres ERP-Systems:
+<div class="video-block">
+  <video
+    controls
+    preload="metadata"
+    width="100%"
+  >
+    <source
+      src="/assets/videos/finances.mp4"
+      type="video/mp4"
+    >
 
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HIER_VIDEO_ID" title="CoWörk ERP Vorstellung" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    Dein Browser unterstützt das Video-Tag nicht.
+  </video>
+  <small>
+    <em>
+      Video von
+      <a href="https://www.pexels.com/@rdne/">RDNE Stock project</a>,
+      auf
+      <a href="https://www.pexels.com"> Pexels</a>
+      <div class="license">
+        (lizensiert unter der
+        <a href="https://www.pexels.com/license/">Pexels-Lizenz</a>
+        )
+      </div>
+    </em>
+  </small>
 </div>
 
 ---

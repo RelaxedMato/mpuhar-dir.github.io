@@ -25,6 +25,32 @@
   text-decoration: none !important;
 }
 
+.image-block {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.image-block img {
+  width: 90%;
+  height: auto;
+  display: block;
+}
+
+.video-block {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.video-block img {
+  width: 90%;
+  height: auto;
+  display: block;
+}
+
+.license {
+  font-size: 80%;
+}
+
 /* BUTTONS */
 a.btn,
 a:hover.btn {
