@@ -14,7 +14,7 @@ Die Webseite des CoWörk ERP ist mit der Richtlinien für barrierefreie Webinhal
 
 ## Nicht-barrierefreie Inhalte
 
-Nach aktueller Überprüfung sind keine Inhalte bekannt, welche gegen die Barrierefreiheit verstößen. Da wir unseren Webshop kontinuierlich weiterentwickeln, führen wir dementsprechend regelmäßig neue Tests durch, um die Barrierefreiheit zu gewährleisten. Sollten Sie jedoch auf Hindernisse gestoßen sein, kontaktieren Sie uns bitte über <[unser Kontaktformular]({{ '/contact/' | relative_url }}).
+Nach aktueller Überprüfung sind keine Inhalte bekannt, welche gegen die Barrierefreiheit verstoßen. Da wir unseren Webshop kontinuierlich weiterentwickeln, führen wir dementsprechend regelmäßig neue Tests durch, um die Barrierefreiheit zu gewährleisten. Sollten Sie jedoch auf Hindernisse gestoßen sein, kontaktieren Sie uns bitte über [unser Kontaktformular]({{ '/contact/' | relative_url }}).
 
 ## Erstellung der Barrierefreiheitserklärung
 
@@ -22,7 +22,7 @@ Diese Barrierefreiheitserklärung wurde am 16. Mai 2026 erstellt. Wir haben unse
 
 ## Feedback und Kontakt
 
-Sollten Ihnen Stellen auffallen, bei denen die Ihre Barrierefreiheit verletzt wird, bitten wir Sie, uns über [unser Kontaktformular]({{ '/contact/' | relative_url }}) zu kontaktieren. Wir bemühen uns, die Problemstelle zeitnah zu analysieren und beheben.
+Sollten Ihnen Stellen auffallen, bei denen Ihre Barrierefreiheit verletzt wird, bitten wir Sie, uns über [unser Kontaktformular]({{ '/contact/' | relative_url }}) zu kontaktieren. Wir bemühen uns, die Problemstelle zeitnah zu analysieren und beheben.
 
 ## Durchsetzungsverfahren
 
