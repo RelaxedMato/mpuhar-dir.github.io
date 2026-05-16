@@ -36,17 +36,17 @@ author:
 footer:
   links:
     - label: "Kontakt"
-      url: "/contact/"
+      url: "/mpuhar-dir.github.io/contact/"
     - label: "Über uns"
-      url: "/about/"
+      url: "/mpuhar-dir.github.io/about/"
     - label: "Terms of Service"
-      url: "/tos/"
+      url: "/mpuhar-dir.github.io/tos/"
     - label: "Impressum"
-      url: "/impressum/"
+      url: "/mpuhar-dir.github.io/impressum/"
     - label: "Datenschutz"
-      url: "/datenschutz/"
+      url: "/mpuhar-dir.github.io/datenschutz/"
     - label: "Barrierefreiheitserklärung"
-      url: "/accessibility/"
+      url: "/mpuhar-dir.github.io/accessibility/"
 
   since: "2026"
 
