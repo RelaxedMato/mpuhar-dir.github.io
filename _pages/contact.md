@@ -3,41 +3,38 @@ layout: single
 title: "Kontakt"
 permalink: /contact/
 ---
-<form action="">
+<form class="contact">
 
   <label for="name">Name</label>
   <input
     type="text"
     id="name"
     name="name"
-    required
-  >
+    required>
 
   <label for="email">E-Mail</label>
   <input
     type="email"
     id="email"
     name="email"
-    required
-  >
+    required>
 
 <label for="title">Betreff</label>
   <input
     type="text"
     id="title"
     name="title"
-    required
-  >
+    required>
 
   <label for="message">Nachricht</label>
-  <textarea
-    id="message"
-    name="message"
-    rows="6"
-    required
-  ></textarea>
+    <textarea
+        id="message"
+        name="message"
+        rows="6"
+        required>
+    </textarea>
 
-  <button class="btn btn--primary">
+  <button type="submit" class="btn btn--primary">
     Nachricht senden
   </button>
 

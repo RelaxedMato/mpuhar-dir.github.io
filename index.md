@@ -22,11 +22,11 @@ Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **österreichi
       <a href="https://unsplash.com/de/@planiel">Daniel Plan</a>
       auf
       <a href="https://unsplash.com">Unsplash</a>
-      <div class="license">
+      <span class="license">
         (lizensiert unter der freien
         <a href="https://www.unsplash.com/license/">Unsplash-Lizenz</a>
         )
-      </div>
+      </span>
     </em>
   </small>
 </div>
@@ -66,11 +66,11 @@ Ersparren Sie sich lange Arbeitsmeetings und viel Papierkram!
       <a href="https://www.pexels.com/@rdne/">RDNE Stock project</a>,
       auf
       <a href="https://www.pexels.com"> Pexels</a>
-      <div class="license">
+      <span class="license">
         (lizensiert unter der freien
         <a href="https://www.pexels.com/license/">Pexels-Lizenz</a>
         )
-      </div>
+      </span>
     </em>
   </small>
 </div>

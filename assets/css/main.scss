@@ -51,6 +51,41 @@
   font-size: 80%;
 }
 
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.shop-card {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.35);
+  border: 1px solid rgba(0,0,0,0.08);
+  backdrop-filter: blur(8px);
+}
+
+.shop-card.featured {
+  background:rgba(180,40,40,0.12);
+  border: 1px solid rgba(180,40,40,0.18);
+}
+
+.shop-card h2 {
+  margin-top: 0;
+}
+
+.shop-card ul {
+  margin-bottom: 1.5rem;
+}
+
+.shop-card p:last-child {
+  margin-top: auto;
+  margin-bottom: 0;
+}
+
 /* BUTTONS */
 a.btn,
 a:hover.btn {
@@ -95,26 +130,107 @@ a:hover.btn {
 }
 
 /* FORMS */
-form {
+form.contact {
   max-width: 700px;
   background-color: #e6e9ef;
   border-radius: 6px;
+  margin-bottom: 0em;
 }
 
-label {
+.contact label {
   display: block;
   margin-top: 1rem;
   margin-bottom: 0.3rem;
   font-weight: 600;
 }
 
-input,
-textarea {
+.contact input,
+.contact textarea {
   width: 100%;
   padding: 0.5rem;
   border: 1px solid #999;
   border-radius: 6px;
   font: inherit;
+}
+
+.contact p {
+  margin-bottom: 0.5em !important;
+}
+
+.contact p:last-child {
+  margin-bottom: 0em !important;
+}
+
+.checkout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+}
+
+.checkout-form {
+  max-width: 700px;
+  background-color: #e6e9ef;
+  border-radius: 6px;
+  padding: 1.5rem;
+}
+
+.checkout-form label {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+.checkout-form input:not([type="checkbox"]) {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #999;
+  border-radius: 6px;
+  font: inherit;
+}
+
+.checkout-summary {
+  background-color: #e6e9ef;
+  border-radius: 6px;
+  padding: 1.5rem;
+}
+
+.checkout-summary table {
+  width: 100%;
+}
+
+.checkout-summary td {
+  padding: 0.5rem 0;
+}
+
+.checkout-form p:last-child {
+  margin-bottom: 0em !important;
+}
+
+.checkout-form button {
+  margin-top: 1.5rem !important;
+  font-size: medium;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.checkout-form .checkbox {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px;
+}
+
+.checkout-form .checkbox input[type="checkbox"] {
+  margin-inline-start: 0 !important;
+  width: 18px;
+  height: 18px;
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .checkout {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* TABLES */

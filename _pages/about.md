@@ -45,7 +45,7 @@ Zur Absicherung unserer Corporate und Visual Identity haben wir folgende Markenf
 
 ### 3. Wortmarke: Freight&Forget
 * **Beschreibung:** Reiner Textbegriff "Freight&Forget" in Standard-Schriftzeichen. Dieser ist als eigenständige Produktlinien-Wortmarke eingetragen und unabhängig von der Dachmarke geschützt.
-* **Bedeutung:** Während die Hauptmarke "CoWörk" deckt das vollständige Produkt (Cloud-basiertes ERP-System), sichert diese Wortmarke unsere markenrechtlich gesicherte Auto-Inventar- und Logistik-Technologie. Die Form des Textbegriffs kommt ursprünglich aus dem militärischen "Fire-and-Forget", setzt sich in unserem Fall aber aus den Worten "Freight" (Fracht) und "Forget" (Vergessen). Dies vermittelt unseren Enterprise-Kunden das Kernversprechen von sorgenloser Logistik und automatisierter Inventarverwaltung.
+* **Bedeutung:** Während die Hauptmarke "CoWörk" deckt das vollständige Produkt (Cloud-basiertes ERP-System), sichert diese Wortmarke unsere urheberrechtlich geschützte Auto-Inventar- und Logistik-Technologie. Die Form des Textbegriffs kommt ursprünglich aus dem militärischen "Fire-and-Forget", setzt sich in unserem Fall aber aus den Worten "Freight" (Fracht) und "Forget" (Vergessen). Dies vermittelt unseren Enterprise-Kunden das Kernversprechen von sorgenloser Logistik und automatisierter Inventarverwaltung.
 
 ---
 

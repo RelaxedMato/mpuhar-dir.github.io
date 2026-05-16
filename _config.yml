@@ -39,7 +39,7 @@ footer:
       url: "/contact/"
     - label: "Über uns"
       url: "/about/"
-    - label: "Lizenz"
+    - label: "AGBs"
       url: "/agb/"
     - label: "Impressum"
       url: "/impressum/"
