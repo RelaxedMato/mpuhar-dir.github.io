@@ -68,6 +68,29 @@ a:hover.btn {
   border-color: #1b5e20 !important;
 }
 
+/* FORMS */
+form {
+  max-width: 700px;
+  background-color: #e6e9ef;
+  border-radius: 6px;
+}
+
+label {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #999;
+  border-radius: 6px;
+  font: inherit;
+}
+
 /* TABLES */
 table {
   table-layout: fixed !important;

@@ -4,3 +4,5 @@ main:
     url: /abos/
   - title: "Shop"
     url: /shop/
+  - title: "Kontakt"
+    url: /contact/
