@@ -23,7 +23,7 @@ Für kleine Teams und erste Tests.
 
 - CoWörk CRM
 
-[Jetzt starten](/checkout/?product=free){: .btn .btn--primary}
+[Jetzt starten]({{ '/checkout/?product=free' | relative_url }}){: .btn .btn--primary}
 
 </div>
 <div class="shop-card">
@@ -47,7 +47,7 @@ Für gemeinnützige Organisationen.
 - OCR: 5 Dokumente kostenlos pro Monat
 - Nur für ausgewählte gemeinnützige Organisationen
 
-[Jetzt starten](/checkout/?product=ngo){: .btn .btn--primary}
+[Jetzt starten]({{ '/checkout/?product=ngo' | relative_url }}){: .btn .btn--primary}
 
 </div>
 <div class="shop-card featured">
@@ -74,7 +74,7 @@ Für professionelle Teams und Unternehmen.
 - Zusätzliche Module: € 200,- / Monat
 - OCR optional verfügbar
 
-[Jetzt kaufen](/checkout/?product=pro){: .btn .btn--primary}
+[Jetzt kaufen]({{ '/checkout/?product=pro' | relative_url }}){: .btn .btn--primary}
 
 </div>
 <div class="shop-card">
@@ -94,7 +94,7 @@ Für große Organisationen mit individuellen Anforderungen.
 - 24/7 Priority Support
 - Individuelle Integrationen
 
-[Kontakt aufnehmen](/contact/?enterprise){: .btn .btn--primary}
+[Kontakt aufnehmen]({{ '/contact/?enterprise' | relative_url }}){: .btn .btn--primary}
 
 </div>
 </div>

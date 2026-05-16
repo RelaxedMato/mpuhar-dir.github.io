@@ -78,7 +78,7 @@ classes: wide
 
 <label class="checkbox">
   <input type="checkbox" required>
-  <span>Ich akzeptiere die <a href="/tos/">Terms of Service</a>.*</span>
+  <span>Ich akzeptiere die <a href="{{ '/tos/' | relative_url }}">Terms of Service</a>.*</span>
 </label>
 
 <button

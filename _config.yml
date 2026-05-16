@@ -36,17 +36,17 @@ author:
 footer:
   links:
     - label: "Kontakt"
-      url: "/contact/"
+      url: "{{ '/contact/' | relative_url }}"
     - label: "Über uns"
-      url: "/about/"
+      url: "{{ '/about/' | relative_url }}"
     - label: "Terms of Service"
-      url: "/tos/"
+      url: "{{ '/tos/' | relative_url }}"
     - label: "Impressum"
-      url: "/impressum/"
+      url: "{{ '/impressum/' | relative_url }}"
     - label: "Datenschutz"
-      url: "/datenschutz/"
+      url: "{{ '/datenschutz/' | relative_url }}"
     - label: "Barrierefreiheitserklärung"
-      url: "/accessibility/"
+      url: "{{ '/accessibility/' | relative_url }}"
 
   since: "2026"
 

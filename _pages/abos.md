@@ -22,7 +22,7 @@ CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-
 | OCR-addon "CoWörk Oracle" - 20,-€ / Mo. | - | 5 free / Mo. | Optional | ✅(inklusive) |
 | Support | E-Mail | E-Mail | Forum | 24/7 Priority |
 | **monatlicher Preis** | **€ 0,-** | **€ 20,-** * | **€ 600,-** | **Auf Anfrage** |
-| Tarif auswählen | [Auswählen](/checkout/?product=free){: .btn .btn--primary} | [Auswählen](/checkout/?product=ngos){: .btn .btn--primary} | [Auswählen](/checkout/?product=pro){: .btn .btn--primary} | [Auswählen](/contact/?enterprise){: .btn .btn--primary} |
+| Tarif auswählen | [Auswählen]({{ '/checkout/?product=free' | relative_url }}){: .btn .btn--primary} | [Auswählen]({{ '/checkout/?product=ngo' | relative_url }}){: .btn .btn--primary} | [Auswählen]({{ '/checkout/?product=pro' | relative_url }}){: .btn .btn--primary} | [Auswählen]({{ '/contact/?enterprise' | relative_url }}){: .btn .btn--primary} |
 
 </div>
 

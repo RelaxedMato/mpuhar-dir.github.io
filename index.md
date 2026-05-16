@@ -2,7 +2,7 @@
 layout: single
 title: "CoWörk ERP"
 ---
-![Logo des CoWörk](/assets/images/logos/logo384.png){: .align-left} **CoWörk ERP** ist Ihr Partner für digitale Verwaltung Ihrer Organisation aus dem Herzen Österreichs. 
+![Logo des CoWörk]({{ '/assets/images/logos/logo384.png' | relative_url }}){: .align-left} **CoWörk ERP** ist Ihr Partner für digitale Verwaltung Ihrer Organisation aus dem Herzen Österreichs. 
 
 Wir bieten ein modulares, cloudbasiertes Online-ERP-System, welches speziell auf die Bedürfnisse von klein- bit mittelgroßen Unternehmen, Vereinen und gemeinnützigen Organisationen in Österreich zugeschnitten ist. 
 Unser Ziel ist es, Verwaltungsprozesse zu zentralisieren und die Zusammenarbeit innerhalb Ihrer Organisation zu optimieren.
@@ -41,7 +41,7 @@ Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **Österreichi
 * **Banking:** Export und Import nach 🇦🇹-Vorschriften.
 * **Projektmanagment:** Effiziente Verwaltung von Mitarbeitern sowie der Organisation.
 
-[Überblick der Tarife](/abos/){: .btn .btn--primary} [Jetzt unverbindlich testen](/shop/){: .btn .btn--info}
+[Überblick der Tarife]({{ '/abos/' | relative_url }}){: .btn .btn--primary} [Jetzt unverbindlich testen]({{ '/shop/' | relative_url }}){: .btn .btn--info}
 
 ---
 
@@ -69,4 +69,4 @@ Ersparren Sie sich lange Arbeitsmeetings und viel Papierkram!
 
 ## Wer wir sind
 
-Wir sind ein agiles, dreiköpfiges Team aus Wien, welches Finanz-Software mit Leidenschaft entwickelt. Erfahren Sie mehr über unsere Vision und unsere Werte auf unserer [Über Uns Seite](/about/).
+Wir sind ein agiles, dreiköpfiges Team aus Wien, welches Finanz-Software mit Leidenschaft entwickelt. Erfahren Sie mehr über unsere Vision und unsere Werte auf unserer [Über Uns Seite]({{ '/about/' | relative_url }}).
