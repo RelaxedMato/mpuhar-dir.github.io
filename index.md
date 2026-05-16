@@ -48,18 +48,8 @@ Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **Österreichi
 Ersparren Sie sich lange Arbeitsmeetings und viel Papierkram!
 
 <div class="video-block">
-  <video
-    controls
-    preload="metadata"
-    width="100%"
-  >
-    <source
-      src="/assets/videos/finances.mp4"
-      type="video/mp4"
-    >
-
-    Dein Browser unterstützt das Video-Tag nicht.
-  </video>
+  <img src="/assets/videos/finances.webp" alt="Zwei Personen arbeiten ineffizient mit analogen Mitteln." role="presentation" width="100%">
+  </div>
   <small>
     <em>
       Video von
