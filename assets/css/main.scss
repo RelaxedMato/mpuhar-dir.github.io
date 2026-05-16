@@ -118,27 +118,62 @@ textarea {
 }
 
 /* TABLES */
-table {
+.nizza table {
+  border-collapse: separate;
+  border-spacing: 0 1rem;
+}
+
+.nizza table td,
+.nizza table th {
+  background: rgba(255,255,255,0.4);
+  padding: 1.2rem;
+
+  border: none;
+}
+
+.nizza tr td:first-child,
+.nizza tr th:first-child {
+  border-radius: 12px 0 0 12px;
+}
+
+.nizza tr td:last-child,
+.nizza tr th:last-child {
+  border-radius: 0 12px 12px 0;
+}
+
+.nizza td:first-child {
+  width: 120px;
+}
+
+.nizza td {
+  line-height: 1.7;
+}
+
+.nizza tbody tr:hover td {
+  background: rgba(180,40,40,0.06);
+}
+
+.pricing table {
   table-layout: fixed !important;
   width: 100% !important;
 }
 
-table th:first-child, 
-table td:first-child {
+.pricing table th:first-child, 
+.pricing table td:first-child {
   width: 280px !important;
   white-space: nowrap !important;
 }
 
-table th:nth-child(4),
-table td:nth-child(4) {
+.pricing table th:nth-child(4),
+.pricing table td:nth-child(4) {
   background:rgba(180,40,40,0.10);
   box-shadow:
     inset 1px 0 rgba(180,40,40,0.15),
     inset -1px 0 rgba(180,40,40,0.15);
 }
 
-th:not(:first-child),
-td:not(:first-child) {
+.pricing th:not(:first-child),
+.pricing td:not(:first-child) {
   width: clamp(80px, 12vw, 160px);
 }
 

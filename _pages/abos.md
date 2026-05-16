@@ -7,6 +7,7 @@ CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-
 
 ## Übersicht unserer Tarife
 
+<div class="pricing">
 
 | Feature | Free | NGOs | Pro | Enterprise |
 |:---|:-:|:---:|:---:|:---:|
@@ -22,6 +23,8 @@ CoWörk bietet Ihrem Unternehmen oder Ihrem Verein eine einfache SaaS (Software-
 | Support | E-Mail | E-Mail | Forum | 24/7 Priority |
 | **monatlicher Preis** | **€ 0,-** | **€ 20,-** * | **€ 600,-** | **Auf Anfrage** |
 | Tarif auswählen | [Auswählen](#){: .btn .btn--primary} | [Auswählen](#){: .btn .btn--primary} | [Auswählen](#){: .btn .btn--primary} | [Auswählen](#){: .btn .btn--primary} |
+
+</div>
 
 <small> *\* nur für ausgewählte gemmeinnützige Organisationen*
 

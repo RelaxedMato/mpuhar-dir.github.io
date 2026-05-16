@@ -32,9 +32,20 @@ Da wir Software „Made in Austria“ entwickeln, garantieren wir höchste Daten
 
 Zur Absicherung unserer Corporate und Visual Identity haben wir folgende Markenformen festgelegt:
 
-### 1. Wortmarke "CoWörk"
+### 1. Wortmarke: "CoWörk"
 * **Beschreibung:** Reiner Textbegriff "CoWörk" in Standard-Schriftzeichen.
-* **Bedeutung:** CoWörk steht für die Zusammenarbeit, besonders im Österreichsichen Raum. Das zweite "o" der Wortmarke wird dementsprechend zum "ö", um die regionale Identität zu stärken. Wir verzichten hierbei auf grafische Formattierung des Textes, um die Eindeutigkeit trotz verschiedener Farben und/oder Schriftarten sicherzustellen.
+* **Bedeutung:** CoWörk steht für die Zusammenarbeit, besonders im Österreichischen Raum. Das zweite "o" der Wortmarke wird dementsprechend zum "ö", um die regionale Identität und Zusammenarbeit zu stärken. Wir verzichten hierbei auf grafische Formattierung des Textes, um die Eindeutigkeit trotz verschiedener Farben und/oder Schriftarten sicherzustellen.
+
+### 2. Bildmarke: rot-weiße hexagonale Sonne mit Buchstaben CWÖ
+* **Beschreibung:** Unser Logo ist ein grafisches Symbol, für welches gilt:
+1. jenes besteht aus den Farben rot und weiß, die Österreichische Nationalfarben darstellen, 
+2. seine Grundform ähnelt einem Sechseck,
+3. dieses beinhaltet die Initialien "CW" für CoWörk, wobei darüber die zwei plazierten Punkte sowohl für den regionalen Umlaut "Ö", welches für Österreich steht, steht, als auch dem Gesammtkonzept einer stilisierten Sonne ein Gesicht vermittelt.
+* **Bedeutung:** Dieses Logo ist der visuelle Kern unserer Marke. Die hexagonale Form repräsentiert die geografische Form Wiens, der Heimatstadt unseres Unternehmens. Des weiteren unterstreichen die Umlaute sowie die Farben rot und weiß unmissverständlich unsere Herkunft sowie sowie unseren Fokus auf den Österreichischen Raum und regionale Zusammenarbeit. Die Assoziation mit einer Sonne symbolisiert Klarheit, sowie den zukunftsorientierte Entwicklung unserer Cloud-basierte Software.
+
+### 3. Wortmarke: Freight&Forget
+* **Beschreibung:** Reiner Textbegriff "Freight&Forget" in Standard-Schriftzeichen. Dieser ist als eigenständige Produktlinien-Wortmarke eingetragen und unabhängig von der Dachmarke geschützt.
+* **Bedeutung:** Während die Hauptmarke "CoWörk" deckt das vollständige Produkt (Cloud-basiertes ERP-System), sichert diese Wortmarke unsere markenrechtlich gesicherte Auto-Inventar- und Logistik-Technologie. Die Form des Textbegriffs kommt ursprünglich aus dem militärischen "Fire-and-Forget", setzt sich in unserem Fall aber aus den Worten "Freight" (Fracht) und "Forget" (Vergessen). Dies vermittelt unseren Enterprise-Kunden das Kernversprechen von sorgenloser Logistik und automatisierter Inventarverwaltung.
 
 ---
 
@@ -42,11 +53,15 @@ Zur Absicherung unserer Corporate und Visual Identity haben wir folgende Markenf
 
 Um unsere Rechtssicherheit gegen Verletzungen zu gewährleisten, werden die drei Markenformen den folgenden **Klassen von Nizza** zugeordnet:
 
+<div class="nizza">
+
 | Klasse | Typ | Bereich für CoWörk |
 | :--- | :--- | :--- |
 | **Klasse 9** | Waren | Computer-Software für das Rechnungswesen, ERP-Systeme, Datenbanken zur Mitgliederverwaltung und cloudbasierte Kollaborationssoftware. |
 | **Klasse 35** | Dienstleistungen | Betriebswirtschaftliche Organisation und Beratung; computergestützte Stammdatenverwaltung (CRM); automatisierte Abrechnungsdienste. |
 | **Klasse 42** | Dienstleistungen | Bereitstellung von Software-as-a-Service (SaaS) Plattformen; Cloud-Hosting von Unternehmensdaten; technische Betreuung und Wartung von ERP-Systemen. |
+
+</div>
 
 ---
 
