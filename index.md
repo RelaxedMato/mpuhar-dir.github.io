@@ -15,7 +15,7 @@ Unser Ziel ist es, Verwaltungsprozesse zu zentralisieren und die Zusammenarbeit 
 
 Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **Österreichischen Raum** 🇦🇹 entwickelt.
 <div class="image-block">
-  <img src="/assets/images/vienna.jpg" alt="Wien">
+  <img src="{{'/assets/images/vienna.jpg' | relative_url }}" alt="Wien">
   <small>
     <em>
       Foto von
