@@ -7,7 +7,7 @@
       <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         <a class="site-title" href="{{ '/' | relative_url }}">
           {% unless logo_path == empty %}
-          <img class="site-logo" src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}">
+          <img class="site-logo" src="{{ logo_path | relative_url }}" alt="">
           {% endunless %}
           {{ site.masthead_title | default: site.title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
