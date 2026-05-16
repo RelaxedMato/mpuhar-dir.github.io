@@ -93,6 +93,17 @@ td:not(:first-child) {
   width: clamp(80px, 12vw, 160px);
 }
 
+/* HEADER */
+a.site-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.site-logo {
+  max-width: 100%;
+  display: block;
+}
+
 /* FOOTER */
 .page__footer-copyright {
   color: #4c4f69 !important;
