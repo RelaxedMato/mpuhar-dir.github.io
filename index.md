@@ -13,7 +13,7 @@ Unser Ziel ist es, Verwaltungsprozesse zu zentralisieren und die Zusammenarbeit 
 
 ## Warum CoWörk ERP?
 
-Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **österreichischen Raum** 🇦🇹 entwickelt.
+Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **Österreichischen Raum** 🇦🇹 entwickelt.
 <div class="image-block">
   <img src="/assets/images/vienna.jpg" alt="Wien">
   <small>
