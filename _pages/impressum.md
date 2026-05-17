@@ -51,7 +51,7 @@ Unsere AGBs sowie Lizenz können Sie [hier]({{ '/tos/' | relative_url }}) finden
 
 Die Webseite des CoWörk ERP Systeme GmbH ("CoWörk") wurde mit höchster Sorgfalt kompiliert, jedoch übernimmt CoWörk keine Haftung für die Richtigkeit, Aktualität sowie Vollständigkeit der angegebenen Informationen. Des Weiteren ist CoWörk nicht für die Inhalte der auf der Webseite des CoWörk verlinkten Seiten verantwortlich, sondern deren Betreiber.
 
-Korrekturlesung der Inhalte dieser Webseite wurden mittels Tools mit KI Funktionalität (LanguageTool) durchgeführt. Alle Texte wurden mittels ND ("Natural Dumbness") verfasst und können fehlerhaft sein.
+Korrekturlesung der Inhalte dieser Webseite wurden mittels Tools mit KI Funktionalität (LanguageTool) durchgeführt. Alle Texte wurden mittels ND ("Natural Dumbness") verfasst und können daher fehlerhaft sein.
 
 ## Urheberrecht (geistiges Eigentum)
 
