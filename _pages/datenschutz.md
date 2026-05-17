@@ -11,17 +11,25 @@ Gemäß Anforderungen des [Artikel 13 DSGVO](https://datenschutz-grundverordnung
 
 ## Einleitung
 
-CoWörk ERP Systeme GmbH ("wir", "CoWörk") hält die Sicherheit und den Schutz Ihrer personenbezogenen Daten an hÖchster Priorität. Daher verarbeiten wir nur jene Daten, welche für den üblichen Betrieb unserer Webseite sowie Dienstleistungen zwingend erforderlich sind.
+CoWörk ERP Systeme GmbH ("wir", "CoWörk") hält die Sicherheit und den Schutz Ihrer personenbezogenen Daten an höchster Priorität. Daher verarbeiten wir nur jene Daten, welche für den üblichen Betrieb unserer Webseite sowie Dienstleistungen zwingend erforderlich sind.
 
 Wir verzichten auf jegliche redundante Marketing- sowie Tracking-Cookies, und teilen bzw. verkaufen Ihre Daten an keinen weiter!
 
 Die folgenden Datenschutzhinweise gelten für die Webseite des CoWörk sowie unser Dienstleistungen (SaaS). Diese Datenschutzerklärung kann sich jederzeit ändern, in dem eine neue Fassung veröffentlicht wird. Falls Sie unsere Produkte verwenden, werden Sie über alle wesentlichen Änderungen unserer Datenschutzerklärung per E-Mail informiert.
 
+### Technische Maßnahmen
+
+Gemäß Artikel 32 der DSGVO setzen wir folgende technische Maßnahmen ein:
+* TLS-Verschlüsselung
+* Zugriffsbeschränkungen
+* Kontinuierliche Backups
+* Firewalls
+
 ## Information zur Identität und zum Kontakt
 
 Für den Datenschutz sowie Verarbeitung Ihrer Daten im Zusammenhang mit der Nutzung unserer Dienste im Sinne der DSGVO verantwortlich sind folgende Mitglieder unserer Organisation: 
 
-**Verantwortlicher:** Matic Puhar (DSGVO Beauftragter) für
+**Verantwortlicher:** Matic Puhar (Datenschutzkoordinator) für
 
 **Firma:** CoWörk ERP Systeme GmbH, Musterstraße 167, 1010 Wien, Österreich
 
@@ -48,8 +56,18 @@ Wenn Sie uns per Kontaktformular oder direkt per E-Mail anschreiben, werden Ihre
 Was bedeutet das für Sie?
 * **Verarbeitete Daten:** Name, E-Mail Addresse, Inhalt Ihrer Nachricht.
 * **Zweck der Verarbeitung:** Bearbeitung Ihres Anliegens, technisches Support, sowie vorvertragliche Maßnahmen (z.B. Erstellung von Angeboten für Enterprise-Kunden).
-* **Rechtsgrundlage:** Artikel 6, Absatz 1 (b) der DSGVO (Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen)
-* **Speicherdauer:** Wir speichern Ihre solange, bis sie uns zur Löschung auffordern oder der Zweck für die Datenspeicherung entfällt, sofern nicht anders gesetzlich geregelt (Aufbewahrungspflichten). Anfragen können in vollständig-anonymisierter Form für interne Schulungen und Verbesserung unseres Kundenservices verwendet werden. Personenbezogene Daten werden vor der Verarbeitung vollständig entfernt, sodass keine Person eindeutig identifizierbar ist.
+* **Rechtsgrundlage:** Artikel 6, Absatz 1 (b) und (f) der DSGVO (Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen, bzw. für allgemeine Kontaktanfragen oder Support)
+* **Speicherdauer:** Wir speichern Ihre solange, bis sie uns zur Löschung auffordern oder der Zweck für die Datenspeicherung entfällt (innerhalb maximal 12 Monate), sofern nicht anders gesetzlich geregelt (Aufbewahrungspflichten). Anfragen können in vollständig-anonymisierter Form für interne Schulungen und Verbesserung unseres Kundenservices verwendet werden. Personenbezogene Daten werden vor der Verarbeitung vollständig entfernt, sodass keine Person eindeutig identifizierbar ist.
+
+### Webshop
+
+Beim Kauf einer Lizenz über unseren Webshop vearbeiten wir Daten, welche für die Vertragsabwicklung sowie Nutzungsrechte zu unseren Dienstleistungen benötigt werden.
+
+Was bedeutet das für Sie?
+* **Verarbeitete Daten:** Name bzw. Firma, Rechnungsadresse, E-Mail Adresse, UID-Nummer (bei Unternehmen), Bestellinformationen, Lizenz- und Vertragsdaten, Zahlungsstatus, sowie technische Daten zu Ihrem CoWörk System.
+* **Zweck der Verarbeitung:** Vertragsabwicklung, Rechnungsstellung, Kundensupport, Einhaltung gesetzlicher Verpflichtungen, Zugang zu unseren Dienstleistungen.
+* **Rechtsgrundlage:** Artikel 6, Absatz 1 (b) und (c) der DSGVO (Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen, sowie gesetzliche Aufbewahrungsverpflichtungen sowie andere Verpflichtungen)
+* **Speicherdauer:** Daten zum Vertrag und jegliche Rechnungsdaten werden für die Dauer der gesetzlichen Aufbewahrungspflicht gespeichert. Sonstige Daten werden gelöscht, sobald der Zweck der Verarbeitung erfüllt wurde (sofern nicht anders gesetzlich verpflichtet).
 
 ### Technisch-notwendige Cookies (kein Banner notwendig)
 
@@ -76,13 +94,15 @@ Da unsere Infrastruktur vollständig von uns bereitgestellt und verwaltet wird, 
 
 ### Zahlungsabwicklung
 
-Wenn Sie in unserem Webshop eine Lizenz erwerben, können Sie mittels bargeldlosen Methoden (z.B. Kreditkarte) zahlen. Zum Schutz Ihrer sensiblen Finanzdaten wird das sichere und verschlüsselte Zahlungs-Gateway unseres Bankinstituts verwendet, um die höchsten Sicherheitsstandards einzuhalten. Ihre Bank-Daten aus dem Checkout werden mittels TLS-Verschlüsselung direkt von Ihrem Browser an die Server unseres Bankinstituts übermittelt. Wir speichern niemals Ihre sensiblen Bankdaten auf unseren Servern oder in Cookies! Wir erhalten nach dem Bezahlvorgang nur eine Bestätigung, ob die Zahlungsabwicklung erfolgreich war, damit wir Ihre Bestellung freischalten können.
+Wenn Sie in unserem Webshop eine Lizenz erwerben, können Sie mittels bargeldlosen Methoden (z.B. Kreditkarte) zahlen. Zum Schutz Ihrer sensiblen Finanzdaten wird das sichere und verschlüsselte Zahlungs-Gateway unseres Bankinstituts Erste Bank der österreichischen Sparkassen AG, Österreich verwendet, um die höchsten Sicherheitsstandards einzuhalten. Ihre Bank-Daten aus dem Checkout werden mittels TLS-Verschlüsselung direkt von Ihrem Browser an die Server unseres Bankinstituts Erste Bank der österreichischen Sparkassen AG, Österreich übermittelt. Wir speichern niemals Ihre sensiblen Bankdaten auf unseren Servern oder in Cookies! Wir erhalten nach dem Bezahlvorgang nur eine Bestätigung, ob die Zahlungsabwicklung erfolgreich war, damit wir Ihre Bestellung freischalten können.
 
 **Rechtsgrundlage:** Artikel 6, Absatz 1 (b) der DSGVO (Erfüllung eines Kaufvertrags sowie Durchführung vorvertraglicher Maßnahmen).
 
+Hinweis: Daten, welche für die Buchhaltung relevant sind, müssen gemäß gesetzlichen Aufbewahrungspflichten 7 Jahre gespeichert werden!
+
 ### Drittlandtransfer
 
-Wir übermitteln keine Daten an Drittländer außerhalb des Europäischen Wirtschaftsraums (EWR). Es laufen alle Prozesse auf unseren self-hosted Servern und den Systemen des Bankinstituts, daher bleiben alle Ihre Daten ausschließlich innerhalb der Europäischen Union.
+Wir übermitteln keine Daten an Drittländer außerhalb des Europäischen Wirtschaftsraums (EWR). Es laufen alle Prozesse auf unseren self-hosted Servern und den Systemen des Bankinstituts Erste Bank der österreichischen Sparkassen AG, Österreich, daher bleiben alle Ihre Daten ausschließlich innerhalb der Europäischen Union.
 
 ---
 
@@ -119,4 +139,4 @@ oder über die [Webseite des DSb](https://www.dsb.gv.at)
 
 ## Profiling
 
-Gemäß Artikel 22 der DSGVO setzen wir kein Profiling oder sonstige Automatisierungen ein. Die Prüfung unserer Webseite wurde von echten Menschen ausgewertet.
+Gemäß Artikel 22 der DSGVO setzen wir kein Profiling oder sonstige Automatisierungen ein.
