@@ -7,9 +7,8 @@ gemäß [§ 24 Mediengesetz (MedienG)](https://www.ris.bka.gv.at/NormDokument.wx
 
 ## CoWörk ERP Systeme GmbH
 
-**Geschäftsführer:** Matic Puhar
-
-**Sitz:** Musterstraße 167, 1010 Wien, Österreich
+**Geschäftsführer:** Matic Puhar  
+**Sitz:** Musterstraße 167, 1010 Wien, Österreich  
 
 ### Unternehmensgegenstand:
 
@@ -20,27 +19,23 @@ gemäß [§ 24 Mediengesetz (MedienG)](https://www.ris.bka.gv.at/NormDokument.wx
 
 ## Kontakt
 
-**E-Mail:** office@cowoerk.at
-
+**E-Mail:** office@cowoerk.at  
 **Telefon:** +43 123 12233445/678
 
 ## Registerdaten
 
-**Firmenbuchnummer:** FN 123456x
+**Firmenbuchnummer:** FN 123456x  
+**Firmenbuchgericht:** Handelsgericht Wien  
+**UID-Nummer:** ATU12345678  
 
-**Firmenbuchgericht:** Handelsgericht Wien
-
-**UID-Nummer:** ATU12345678
-
-**Kammermitgliedschaft:** Mitglied der Wirtschaftskammer Österreich (WKÖ)
-
-**Zuständige Gewerbebehörde:** Magistratisches Bezirksamt für den I. und VIII. Bezirk,
-Wipplingerstraße 8,
-1010 Wien,
+**Kammermitgliedschaft:** Mitglied der Wirtschaftskammer Österreich (WKÖ)  
+**Zuständige Gewerbebehörde:**  
+Magistratisches Bezirksamt für den I. und VIII. Bezirk,  
+Wipplingerstraße 8,  
+1010 Wien,  
 Österreich
 
-**Medieninhaber und Herausgeber:** CoWörk ERP Systeme GmbH
-
+**Medieninhaber und Herausgeber:** CoWörk ERP Systeme GmbH  
 **Blattlinie:** Leistungen im Bezug auf Unternehmens- und IT-Consulting, cloudbasierte ERP-Systeme sowie IT-Dienstleistungen.
 
 ## Terms of Service
@@ -55,18 +50,12 @@ Korrekturlesung der Inhalte dieser Webseite wurden mittels Tools mit KI-Funktion
 
 ## Urheberrecht (geistiges Eigentum)
 
-© copyright 2026 CoWörk ERP Systeme GmbH
-
+© copyright 2026 CoWörk ERP Systeme GmbH  
 Alle Rechte vorbehalten.
 
-Alle Inhalte und Strukturen sowie Logos, Bilder, Grafiken, Texte und Videos sowie deren Layouts, sofern nicht anderswertig angegeben, sind eigenständig erstellt worden, und sind dementsprechend uneingeschränkt unser Eigentum (Eigentum der CoWörk ERP Systeme GmbH).
-
-Es ist untersagt, ohne vorheriger schriftlichen Zustimmung von CoWörk nicht zugelassene Veränderungen, welche vom Urheberrechtsgesetz ausgeschlossen sind, vorzunehmen.
-
-Es ist untersagt, unsere Software zu kopieren, zu verändern, ohne unserer vorher eingeholten Zustimmung weiterzuverkaufen, zu vermieten, oder dekompilieren ("Reverse Engineering"), sofern dies nicht gesetzlich zwingend ist.
+Alle Inhalte und Strukturen sowie Logos, Bilder, Grafiken, Texte und Videos sowie deren Layouts, sofern nicht anderswertig angegeben, sind eigenständig erstellt worden, und sind dementsprechend uneingeschränkt unser Eigentum (Eigentum der CoWörk ERP Systeme GmbH). Es ist untersagt, ohne vorheriger schriftlichen Zustimmung von CoWörk nicht zugelassene Veränderungen, welche vom Urheberrechtsgesetz ausgeschlossen sind, vorzunehmen. Es ist untersagt, unsere Software zu kopieren, zu verändern, ohne unserer vorher eingeholten Zustimmung weiterzuverkaufen, zu vermieten, oder dekompilieren ("Reverse Engineering"), sofern dies nicht gesetzlich zwingend ist.
 
 ## Datenschutz und Cookie-Policy
 
-Genauere Datenschutzrichtlinien finden Sie [hier]({{ '/datenschutz/' | relative_url }}).
-
+Genauere Datenschutzrichtlinien finden Sie [hier]({{ '/datenschutz/' | relative_url }}).  <br><br>
 Da uns Ihre Privatsphäre wichtig ist, speichern wir keine Cookies dauerhaft. Es werden nur technisch-notwendigen Cookies (Session-Cookies) für die Dauer Ihres Aufenthaltes für Zahlungs- sowie Sicherheitszwecke auf unserer Webseite gespeichert.

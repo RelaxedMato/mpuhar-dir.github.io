@@ -2,7 +2,7 @@
 layout: single
 title: "CoWörk ERP"
 ---
-![Logo des CoWörk]({{ '/assets/images/logos/logo384.png' | relative_url }}){: .align-left} **CoWörk ERP** ist Ihr Partner für digitale Verwaltung Ihrer Organisation aus dem Herzen Österreichs. 
+![Logo des CoWörk]({{ '/assets/images/logos/logo256.png' | relative_url }}){: .align-left} **CoWörk ERP** ist Ihr Partner für digitale Verwaltung Ihrer Organisation aus dem Herzen Österreichs. 
 
 Wir bieten ein modulares, cloudbasiertes Online-ERP-System, welches speziell auf die Bedürfnisse von klein- bit mittelgroßen Unternehmen, Vereinen und gemeinnützigen Organisationen in Österreich zugeschnitten ist. 
 Unser Ziel ist es, Verwaltungsprozesse zu zentralisieren und die Zusammenarbeit innerhalb Ihrer Organisation zu optimieren.

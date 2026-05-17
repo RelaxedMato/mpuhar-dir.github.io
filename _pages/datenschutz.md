@@ -29,10 +29,8 @@ Gemäß Artikel 32 der DSGVO setzen wir folgende technische Maßnahmen ein:
 
 Für den Datenschutz sowie Verarbeitung Ihrer Daten im Zusammenhang mit der Nutzung unserer Dienste im Sinne der DSGVO verantwortlich sind folgende Mitglieder unserer Organisation: 
 
-**Verantwortlicher:** Matic Puhar (Datenschutzkoordinator) für
-
-**Firma:** CoWörk ERP Systeme GmbH, Musterstraße 167, 1010 Wien, Österreich
-
+**Verantwortlicher:** Matic Puhar (Datenschutzkoordinator) für  
+**Firma:** CoWörk ERP Systeme GmbH, Musterstraße 167, 1010 Wien, Österreich  
 **Kontakt:** privacy@cowoerk.at
 
 ---
@@ -43,41 +41,59 @@ Für den Datenschutz sowie Verarbeitung Ihrer Daten im Zusammenhang mit der Nutz
 
 Sobald Sie unsere Webseite besuchen, werden Informationen von Ihrem Browser an unseren Server in sogenannten Server-Log-Files übermittelt. Alle unsere Server sind nach gängigen Methoden verschlüsselt und stehen in einem hochsicheren Rechenzentrum innerhalb der Europäischen Union (Österreich/Deutschland). Daher erfolgt keine Datenweitergabe an externe Cloud-Anbieter (wie Amazon AWS oder Google).
 
-Was bedeutet das für Sie?
+<div class="list">
+
+### Was bedeutet das für Sie?
 * **Verarbeitete Daten:** IP-Adresse, Datum sowie Uhrzeit des Zugriffs, Browsertyp, Browserversion, Betriebssystem, Referer-URL (Seite, von der Sie die darauffolgende Seite geöffnet haben) und Menge der gesendeten Daten.
 * **Zweck der Verarbeitung:** Betriebssicherheit, Stabilitätskontrolle, sowie Abwehr und Analyse von möglichen Cyberangriffen auf unsere Infrastruktur.
 * **Rechtsgrundlage:** Artikel 6, Absatz 1 (f) der DSGVO (Berechtigtes Interesse am fehlerfreien Betrieb sowie der Gewährleistung der IT-Sicherheit unserer Webseite)
 * **Speicherdauer:** Die Server-Logs werden bei uns maximal 14 Tage gespeichert Spätestens danach werden diese automatisch gelöscht oder anonymisiert.
 
+</div>
+
 ### Kontaktformular
 
 Wenn Sie uns per Kontaktformular oder direkt per E-Mail anschreiben, werden Ihre Daten aus dem Kontaktformular für die Bearbeitung Ihres Anliegens und für Rückfragen bei uns gespeichert.
 
-Was bedeutet das für Sie?
+<div class="list">
+
+### Was bedeutet das für Sie?
 * **Verarbeitete Daten:** Name, E-Mail Addresse, Inhalt Ihrer Nachricht.
 * **Zweck der Verarbeitung:** Bearbeitung Ihres Anliegens, technisches Support, sowie vorvertragliche Maßnahmen (z.B. Erstellung von Angeboten für Enterprise-Kunden).
 * **Rechtsgrundlage:** Artikel 6, Absatz 1 (b) und (f) der DSGVO (Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen, bzw. für allgemeine Kontaktanfragen oder Support)
-* **Speicherdauer:** Wir speichern Ihre solange, bis sie uns zur Löschung auffordern oder der Zweck für die Datenspeicherung entfällt (innerhalb maximal 12 Monate), sofern nicht anders gesetzlich geregelt (Aufbewahrungspflichten). Anfragen können in vollständig-anonymisierter Form für interne Schulungen und Verbesserung unseres Kundenservices verwendet werden. Personenbezogene Daten werden vor der Verarbeitung vollständig entfernt, sodass keine Person eindeutig identifizierbar ist.
+* **Speicherdauer:** Wir speichern Ihre solange, bis sie uns zur Löschung auffordern oder der Zweck für die Datenspeicherung entfällt (innerhalb maximal 12 Monate), sofern nicht anders gesetzlich geregelt (Aufbewahrungspflichten).
+
+</div>
+
+Anfragen können in vollständig-anonymisierter Form für interne Schulungen und Verbesserung unseres Kundenservices verwendet werden. Personenbezogene Daten werden vor der Verarbeitung vollständig entfernt, sodass keine Person eindeutig identifizierbar ist.
 
 ### Webshop
 
 Beim Kauf einer Lizenz über unseren Webshop vearbeiten wir Daten, welche für die Vertragsabwicklung sowie Nutzungsrechte zu unseren Dienstleistungen benötigt werden.
 
-Was bedeutet das für Sie?
+<div class="list">
+
+### Was bedeutet das für Sie?
 * **Verarbeitete Daten:** Name bzw. Firma, Rechnungsadresse, E-Mail Adresse, UID-Nummer (bei Unternehmen), Bestellinformationen, Lizenz- und Vertragsdaten, Zahlungsstatus, sowie technische Daten zu Ihrem CoWörk System.
 * **Zweck der Verarbeitung:** Vertragsabwicklung, Rechnungsstellung, Kundensupport, Einhaltung gesetzlicher Verpflichtungen, Zugang zu unseren Dienstleistungen.
 * **Rechtsgrundlage:** Artikel 6, Absatz 1 (b) und (c) der DSGVO (Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen, sowie gesetzliche Aufbewahrungsverpflichtungen sowie andere Verpflichtungen)
 * **Speicherdauer:** Daten zum Vertrag und jegliche Rechnungsdaten werden für die Dauer der gesetzlichen Aufbewahrungspflicht gespeichert. Sonstige Daten werden gelöscht, sobald der Zweck der Verarbeitung erfüllt wurde (sofern nicht anders gesetzlich verpflichtet).
 
+</div>
+
 ### Technisch-notwendige Cookies (kein Banner notwendig)
 
 Die besten Cookies sind nur die hauseigenen. Daher verzichten wir vollständig auf Cookies von Dritt-Anbietern (wie Meta oder Google). Außerdem speichern wir nur technisch-notwendige Cookies (Session-Cookies), welche keine Einwilligungspflicht benötigen. Diese werden automatisch beim Schließen Ihres Browsers gelöscht.
 
-Was bedeutet das für Sie?
+<div class="list">
+
+### Was bedeutet das für Sie?
 * **Verarbeitete Daten:** Temporäre, anonyme, automatisch-generierte Identifikationsnummer Ihrer Sitzung, sowie Sicherheitstoken zum Schutz vor Cyberangriffen.
 * **Zweck der Verarbeitung:** Speicherung des Warenkorbinhaltes in unserem Webshop, Spam-Protection unseres Kontaktformulars, Speicherung Ihrer Sitzung.
 * **Rechtsgrundlage:** §165 Absatz 3 des TKG 2021 (Unbedingte technische Erforderlichkeit zur Bereitstellung des vom Nutzer ausdrücklich gewünschten Dienstes).
 * **Speicherdauer:** Diese Cookies werden automatisch beim Schließen Ihres Browsers gelöscht.
+
+</div>
 
 ### Lokale Einbindung von Ressourcen
 

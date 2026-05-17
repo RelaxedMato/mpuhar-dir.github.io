@@ -4,17 +4,12 @@ permalink: /tos/
 layout: single
 ---
 
-Stand: 17. Mai 2026
-
-Diese Terms of Services regeln die Nutzung unserer cloud-basierten ERP Plattform "CoWörk ERP" sowie aller Dazugehörigen Module und Funktionalitäten.
-
-Betreiber der Plattform ist:
-
-**CoWörk ERP Systeme GmbH**
-
-Musterstraße 167, 1010 Wien, Österreich
-
-E-Mail: legal@cowoerk.at
+Stand: 17. Mai 2026  <br><br>
+Diese Terms of Services regeln die Nutzung unserer cloud-basierten ERP Plattform "CoWörk ERP" sowie aller Dazugehörigen Module und Funktionalitäten.  
+Betreiber der Plattform ist:  
+**CoWörk ERP Systeme GmbH**  
+Musterstraße 167, 1010 Wien, Österreich  
+E-Mail: legal@cowoerk.at  
 
 ---
 
@@ -31,12 +26,16 @@ Weiters haftet der Kunde für jegliche für diesen zurechenbare Aktivitäten, di
 
 Für die Dauer des Abbonements gewährt CoWörk ERP Systems GmbH ihren Kunden ein einfaches, nicht übertragbares und nicht unterlizenzierbares Recht, die Plattform "CoWörk" für die Geschäftszwecke des Kunden zu nutzen. Die Nutzung ist auf die im gebuchten Tarif vorgesehene Organisationsart sowie Funktionalitäten und Speicherlimits beschränkt.
 
-Besonders untersagt ist:
+<div class="list">
+
+### Besonders untersagt ist:
 * die Software zu kopieren, 
 * die Software zu verändern, 
 * die Software ohne unserer vorher eingeholten Zustimmung weiterzuverkaufen oder zu vermieten,
 * technische Schutzmaßnahmen umzugehen,
 * oder die Software zu dekompilieren (“Reverse Engineering”), sofern dies nicht gesetzlich zwingend ist
+
+</div>
 
 ## 4. Geistiges Eigentum
 
@@ -57,15 +56,19 @@ Sofern keine Kernfunktionen der im Lieferumfang einbezogenen Funktionalitäten e
 
 ## 8. Zulässige Nutzung
 
-Dem kunden ist es untersagt:
+<div class="list">
+
+### Dem Kunden ist es untersagt:  
 * rechtswidrige/illegale Inhalte über die Plattform zu verarbeiten oder verbreiten
 * Sicherheitsmechanismen zu umgehen
 * Cyberangriffe durch automatisierte Astngriffe oder Viren einzusetzen, sowie der Verfügbarkeit der Plattform zu schaden
 * unbefügte Zugriffe auf Systeme oder Daten vorzunehmen
   
+</div>
+
 Sofern diese Anforderungen vom Kunden nicht eingehalten werden, behält sich CoWörk ERP Systeme GmbH das Recht vor, den Zugang temporär zu sperren, um die Integrität, Stabilität und Sicherheit der Plattform zu gewährleisten.
 
-##e 9. Gebühren, Zahlung
+## 9. Gebühren, Zahlung
 
 Die Preise verstehen sich ohne der gesetzlicher Umsatzsteuer, sofern nicht anders angegeben. Die Nutzung der Plattform erfolgt auf Basis der vereinbarten Abo-Gebühren. Bei Zahlungsverzug ist CoWörk ERP Systeme GmbH berechtigt, den Zugriff auf die Plattform nach vorheriger Mahnung zu entziehen.
 
@@ -75,12 +78,9 @@ Die Vertäge läufen für die vereinbarte Laufzeit und verlängern sich automati
 
 ## 11. Haftungsbeschränkung
 
-CoWörk ERP Systeme GmbH haftet unbeschränkt für Schaden, welche durch Vorsatzhandlungen, grober Fahrlässigkeit oder Personenschaden entstehen.
-
-CoWörk ERP Systeme GmbH haftet beschränkt auf Schaden, welche durch leichte Fahrlässigkeit im Bezug auf Verletzung der Vertragspflichten entstehen. 
-
-Ausgeschlossen sind Schaden, welche indirekt entstanden, oder Betriebsunterbrechungen, Folgeschäden, entgangenen Gewinn sowie Datenverluste verursachen.
-
+CoWörk ERP Systeme GmbH haftet unbeschränkt für Schaden, welche durch Vorsatzhandlungen, grober Fahrlässigkeit oder Personenschaden entstehen.  
+CoWörk ERP Systeme GmbH haftet beschränkt auf Schaden, welche durch leichte Fahrlässigkeit im Bezug auf Verletzung der Vertragspflichten entstehen.   
+Ausgeschlossen sind Schaden, welche indirekt entstanden, oder Betriebsunterbrechungen, Folgeschäden, entgangenen Gewinn sowie Datenverluste verursachen.  
 Die Höhe der Haftung ist auf die in den letzten zwölf Monaten vor Eintritt des Schadensfalls geleisteten Entgelte beschränkt.
 
 ## 12. Keine fachliche Beratung
