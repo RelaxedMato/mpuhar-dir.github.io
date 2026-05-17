@@ -13,9 +13,9 @@ gemäß [§ 24 Mediengesetz (MedienG)](https://www.ris.bka.gv.at/NormDokument.wx
 
 ### Unternehmensgegenstand:
 
-- Entwicklung und Betrieb modularer, cloudbasierter Online-ERP-Systeme (SaaS)
-- Entwicklung von Softwarelösungen
-- Unternehmens- und IT-Consulting
+* Entwicklung und Betrieb modularer, cloudbasierter Online-ERP-Systeme (SaaS)
+* Entwicklung von Softwarelösungen
+* Unternehmens- und IT-Consulting
 
 
 ## Kontakt
@@ -51,7 +51,7 @@ Unsere AGBs sowie Lizenz können Sie [hier]({{ '/tos/' | relative_url }}) finden
 
 Die Webseite des CoWörk ERP Systeme GmbH ("CoWörk") wurde mit höchster Sorgfalt kompiliert, jedoch übernimmt CoWörk keine Haftung für die Richtigkeit, Aktualität sowie Vollständigkeit der angegebenen Informationen. Des Weiteren ist CoWörk nicht für die Inhalte der auf der Webseite des CoWörk verlinkten Seiten verantwortlich, sondern deren Betreiber.
 
-Korrekturlesung der Inhalte dieser Webseite wurden mittels Tools mit KI Funktionalität (LanguageTool) durchgeführt. Alle Texte wurden mittels ND ("Natural Dumbness") verfasst und können daher fehlerhaft sein.
+Korrekturlesung der Inhalte dieser Webseite wurden mittels Tools mit KI-Funktionalität (LanguageTool) durchgeführt. Alle Texte wurden mittels ND ("Natural Dumbness") verfasst und können daher fehlerhaft sein. Für Recherche bzgl. des Stylings und rechtliche Information wurden KI-Dienste verwendet, jedoch wurden alle Code-Aspekte sowie Inhaltliche Texte nach bestem Wissen und Gewissen eigenständig verfasst.
 
 ## Urheberrecht (geistiges Eigentum)
 
