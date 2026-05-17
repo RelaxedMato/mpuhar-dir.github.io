@@ -15,7 +15,7 @@ Unser Ziel ist es, Verwaltungsprozesse zu zentralisieren und die Zusammenarbeit 
 
 Unsere Software wurde speziell für die Anforderungen im 🇦🇹 **Österreichischen Raum** 🇦🇹 entwickelt.
 <div class="image-block">
-  <img src="{{'/assets/images/vienna.jpg' | relative_url }}" alt="Wien">
+  <img src="{{'/assets/images/vienna.jpg' | relative_url }}" alt="Photo vom Schloss Schönbrunn VOM Schönbrunner Hügel, mit Blick auf Wien">
   <small>
     <em>
       Foto von
