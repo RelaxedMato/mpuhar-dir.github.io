@@ -6,7 +6,8 @@ layout: single
 
 Stand: 17. Mai 2026  <br><br>
 Diese Terms of Services regeln die Nutzung unserer cloud-basierten ERP Plattform "CoWörk ERP" sowie aller Dazugehörigen Module und Funktionalitäten.  
-Betreiber der Plattform ist:  
+
+*Betreiber der Plattform ist:*  
 **CoWörk ERP Systeme GmbH**  
 Musterstraße 167, 1010 Wien, Österreich  
 E-Mail: legal@cowoerk.at  
