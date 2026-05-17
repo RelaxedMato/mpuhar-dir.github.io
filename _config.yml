@@ -37,17 +37,17 @@ author:
 footer:
   links:
     - label: "Kontakt"
-      url: "/contact/"
+      url: /contact/
     - label: "Über uns"
-      url: "/about/"
+      url: /about/
     - label: "Terms of Service"
-      url: "/tos/"
+      url: /tos/
     - label: "Impressum"
-      url: "/impressum/"
+      url: /impressum/
     - label: "Datenschutz"
-      url: "/datenschutz/"
+      url: /datenschutz/
     - label: "Barrierefreiheitserklärung"
-      url: "/accessibility/"
+      url: /accessibility/
 
   since: "2026"
 
