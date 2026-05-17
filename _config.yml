@@ -19,12 +19,13 @@ locale                   : "de-AT"
 title                    : "CoWörk"
 name                     : "Matic Puhar"
 description              : "CoWörk - Ihr Österreichisches ERP-System!"
-url                      : "https://relaxedmato.github.io/mpuhar-dir.github.io" 
+url                      : "https://relaxedmato.github.io/" 
 repository               : "RelaxedMato/mpuhar-dir.github.io"
 logo                     : "/assets/images/logos/logo48.png"
 words_per_minute         : 200
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
+baseurl                  : "/mpuhar-dir.github.io"
 
 # Site Author
 author:
