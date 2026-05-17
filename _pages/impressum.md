@@ -51,6 +51,8 @@ Unsere AGBs sowie Lizenz können Sie [hier]({{ '/tos/' | relative_url }}) finden
 
 Die Webseite des CoWörk ERP Systeme GmbH ("CoWörk") wurde mit höchster Sorgfalt kompiliert, jedoch übernimmt CoWörk keine Haftung für die Richtigkeit, Aktualität sowie Vollständigkeit der angegebenen Informationen. Des Weiteren ist CoWörk nicht für die Inhalte der auf der Webseite des CoWörk verlinkten Seiten verantwortlich, sondern deren Betreiber.
 
+Korrekturlesung der Inhalte dieser Webseite wurden mittels Tools mit KI Funktionalität (LanguageTool) durchgeführt. Alle Texte wurden mittels ND ("Natural Dumbness") verfasst und können fehlerhaft sein.
+
 ## Urheberrecht (geistiges Eigentum)
 
 © copyright 2026 CoWörk ERP Systeme GmbH
@@ -65,3 +67,6 @@ Es ist untersagt, unsere Software zu kopieren, zu verändern, ohne unserer vorhe
 
 ## Datenschutz und Cookie-Policy
 
+Genauere Datenschutzrichtlinien finden Sie [hier]({{ '/datenschutz/' | relative_url }}).
+
+Da uns Ihre Privatsphäre wichtig ist, speichern wir keine Cookies dauerhaft. Es werden nur technisch-notwendigen Cookies (Session-Cookies) für die Dauer Ihres Aufenthaltes für Zahlungs- sowie Sicherheitszwecke auf unserer Webseite gespeichert.
